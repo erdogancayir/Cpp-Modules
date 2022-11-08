@@ -36,8 +36,6 @@ Templated containers, iterators, algorithms.
 ![Polymorphism-in-CPP](https://user-images.githubusercontent.com/94300378/200578046-2eda3795-8472-4e0f-940a-dd40516c3a64.png)
 
 1. Compile-Time Polymorphism
-
 This type of polymorphism is achieved by function overloading or operator overloading.
-  
-  
-  
+A. Function Overloading
+When there are multiple functions with the same name but different parameters. This is overloaded
