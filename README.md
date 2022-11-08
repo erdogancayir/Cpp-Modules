@@ -31,3 +31,13 @@ Templated containers, iterators, algorithms.
 ![OOPs-Concepts](https://user-images.githubusercontent.com/94300378/187404007-8b97992c-920d-4e2f-bdaf-d1c457ca4214.jpeg)
 
 ![inheritance](https://user-images.githubusercontent.com/94300378/187404605-ff2917b4-7799-4dd0-acc7-c0e615878e14.png)
+ 
+
+![Polymorphism-in-CPP](https://user-images.githubusercontent.com/94300378/200578046-2eda3795-8472-4e0f-940a-dd40516c3a64.png)
+
+1. Compile-Time Polymorphism
+
+This type of polymorphism is achieved by function overloading or operator overloading.
+  
+  
+  
