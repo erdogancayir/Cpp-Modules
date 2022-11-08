@@ -38,6 +38,8 @@ Templated containers, iterators, algorithms.
 1. Compile-Time Polymorphism
 This type of polymorphism is achieved by function overloading or operator overloading.
 A. Function Overloading
-When there are multiple functions wit![0*Jii_jcKX3sOCzaIS](https://user-images.githubusercontent.com/94300378/200585670-83c5c61e-0748-4fa5-a69f-0d9d5a34869d.png)
-h the same name but different parameters. This is overloaded
+When there are multiple functions with the same name but different parameters. This is overloaded
+
+![0*Jii_jcKX3sOCzaIS](https://user-images.githubusercontent.com/94300378/200585670-83c5c61e-0748-4fa5-a69f-0d9d5a34869d.png)
+
 
